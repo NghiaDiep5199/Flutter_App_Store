@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195971740928",
+    "project_id": "flutter-store-app-1c9ac",
+    "storage_bucket": "flutter-store-app-1c9ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195971740928:android:f73f66762d822019c3afe5",
+        "android_client_info": {
+          "package_name": "com.nghiadiep.shop_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtK660B6FRifJfcKcqoySSZqzzwQWEkzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
